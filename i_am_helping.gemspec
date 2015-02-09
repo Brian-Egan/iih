@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
   gem.authors     = ["Brian Egan"]
   gem.email       = "brian@titlepool.com"
   gem.license     = "MIT"
-  ["bubble-wrap", "motion-colorize"].each {|x| gem.add_depedency x}
+  ["bubble-wrap", "motion-colorize"].each {|x| gem.add_dependency x}
   # gem.add_dependency "bubble-wrap"
 
 end
