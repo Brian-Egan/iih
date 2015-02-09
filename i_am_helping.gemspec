@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |gem|
   gem.name        = "i_am_helping"
-  gem.version     = '0.0.1'
+  gem.version     = '0.0.2'
   gem.summary     = "Helpers built for personal use in a Rubymotion project."
   gem.description = "Helpers built for personal use in a Rubymotion project."
   gem.files         = `git ls-files`.split("\n")
